@@ -12,5 +12,7 @@ I finished the Bells & Whistles in the following:
 	5. Bell: Best Fit Lines: Reference from https://github.com/Tom-Alexander/regression-js
 	6. Whistle: Replication:
 		I did them in Google Sheet. I download a copy of the file: Info Viz Project 0.xlsx.
-
+	7. Whistle: Transitions
+		(1) Reference http://bl.ocks.org/d3noob/7030f35b72de721622b8
+		(2) I tried this one, but decided to turn to other research projects...I created several components.
 
